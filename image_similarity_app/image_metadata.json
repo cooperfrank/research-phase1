@@ -42,6 +42,11 @@
     "dir": "/storage/0000-0000",
     "highlighted_menu_option": "0000-0000"
   },
+  "menu-open_3.png": {
+    "view": "list",
+    "dir": "/storage/emulated/0/Download",
+    "highlighted_menu_option": "Download"
+  },
   "new-folder_1.png": {
     "add_folder_menu": "open",
     "view": "grid",
