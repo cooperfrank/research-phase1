@@ -8,7 +8,16 @@ import clip
 from PIL import Image
 
 class CLIPEmbedder:
+    """Class to embed images using OpenAI's CLIP and compute cosine similarity between them."""
+
     def __init__(self, model_name="ViT-B/32", device="cpu"):
+        """
+        Initialize CLIPEmbedder with a specified CLIP model and device type.
+
+        Args:
+            model_name (str, optional): Name of the CLIP model to load. Defaults to "ViT-B/32".
+            device (str, optional): Device to run the model on ("cpu" or "cuda"). Defaults to "cpu".
+        """
         self.device = device
         self.model, self.preprocess = clip.load(model_name, device=device)
 
