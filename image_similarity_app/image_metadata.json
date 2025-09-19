@@ -1,0 +1,79 @@
+{
+  "storage-emulated-0_1.png": {
+    "view": "list",
+    "dir": "storage/emulated/0"
+  },
+  "storage-emulated-0_2.png": {
+    "search_text": "",
+    "view": "list",
+    "dir": "storage/emulated/0"
+  },
+  "storage-emulated-0_3.png": {
+    "search_text": "audio",
+    "view": "list",
+    "dir": "/storage/emulated/0"
+  },
+  "storage-emulated-0_4.png": {
+    "search_entry": "audio",
+    "view": "list",
+    "dir": "/storage/emulated/0"
+  },
+  "storage-emulated-0_5.png": {
+    "dot_menu": "open",
+    "view": "list",
+    "dir": "/storage/emulated/0"
+  },
+  "storage-emulated-0_6.png": {
+    "view": "grid",
+    "dir": "/storage/emulated/0"
+  },
+  "storage-emulated-0_7.png": {
+    "view": "grid",
+    "dir": "/storage/emulated/0",
+    "add_menu": "open"
+  },
+  "menu-open_1.png": {
+    "view": "grid",
+    "dir": "/storage/emulated/0",
+    "highlighted_menu_option": "Storage"
+  },
+  "menu-open_2.png": {
+    "view": "list",
+    "dir": "/storage/0000-0000",
+    "highlighted_menu_option": "0000-0000"
+  },
+  "new-folder_1.png": {
+    "add_folder_menu": "open",
+    "view": "grid",
+    "dir": "/storage/emulated/0"
+  },
+  "new-file_1.png": {
+    "add_file_menu": "open",
+    "view": "grid",
+    "dir": "/storage/emulated/0",
+    "filename_text": ".txt"
+  },
+  "new-file_2.png": {
+    "add_file_menu": "open",
+    "view": "grid",
+    "dir": "/storage/emulated/0",
+    "filename_text": "test_filename.txt"
+  },
+  "cloud-connection_1.png": {
+    "cloud_connection_menu": "open",
+    "view": "grid",
+    "dir": "/storage/emulated/0"
+  },
+  "settings_1.png": {
+    "page": "settings",
+    "toggles": "all_on"
+  },
+  "settings_2.png": {
+    "page": "settings",
+    "toggles": "mixed"
+  },
+  "settings_3.png": {
+    "page": "settings",
+    "toggles": "all_off"
+  }
+}
